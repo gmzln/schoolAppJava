@@ -1,0 +1,2 @@
+1;Zufall;Rainer;Eisenb.;22;04135;Leipzig;IT23/5
+2;Lyse;Anna;Konradstr.;2;04135;Leipzig;IT23/2
